@@ -254,7 +254,7 @@ If you curl our new backend service (like we did before), the request will fail.
 3. For *Require acceptance for endpoint*, select the check box for **Acceptance Reqired** to accept requests to your service manually. 
 	>If you do not select this option, endpoint connections are automatically accepted.
 
-4. Click **Create Service**.  You should get a success message like the one below.  Notice that you will be allocated a DNS name for the *Endpoint Service*.  Once finsihed, click **Close**.
+4. Click **Create Service**.  You should get a success message like the one below.  Notice that you will be allocated a DNS name for the *Endpoint Service*.  Once finished, click **Close**.
 
 	![Create Endpoint Service](../images/create-endpoint-service-sucess.png)
 
